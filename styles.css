@@ -185,4 +185,9 @@ body {
     .rodape__lista {
         display: block;
     }
+
+     .rodape__texto {
+        margin: 2em 2em;
+        font-size: 50%;
+    }
 }
